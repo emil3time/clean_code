@@ -1,0 +1,19 @@
+{
+  "recrutmentTask": "recrutment task ",
+  "@recrutmentTask":{
+  "description": "tilte of application"
+  },
+  "noConnection": "no internet connection",
+  "@noConnection":{
+  "description": "error message when lost internet connection"
+  },
+  "webWievError": "There was a page loading error",
+  "@webWievError":{
+  "description": "error appears when WebView have troubles "
+  },
+  "error": "An error ocurred, please retry",
+  "@error":{
+  "description": "we have an error, please start again "
+  }
+
+}
